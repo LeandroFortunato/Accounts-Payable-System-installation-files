@@ -11,7 +11,7 @@ Create the following directory to receive the system:
      
      /account-ps   
 
-Copy the following executable and data files under the new directory '/account-ps' that was created:
+Download the following executable and data files (provided early on this page) under the new directory '/account-ps' that was created:
 __________________________________________
    - accounts-payable-system.exe  
    - BILL
