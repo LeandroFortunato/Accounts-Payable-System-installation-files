@@ -1,5 +1,5 @@
 # Accounts-Payable-System-installation-files
-(Important: The following procedures will run under LINUX Operational System).
+(Important: The following procedures will run under LINUX Operating System).
 
 First, open a Terminal.
 
