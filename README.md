@@ -1,7 +1,7 @@
 # Accounts-Payable-System-installation-files
 (Important: The following procedures will run under LINUX Operating System).
 
-First, open a Terminal.
+First, open a terminal.
 
 In case you don't have open-cobol installed, you should do it first, using the following line command:
      
